@@ -59,5 +59,6 @@ Now the UI will be available at http://localhost:3001
 ![server](./ui/public/ss/ss-home.png)
 
 ## Register new user
-
+9217020131:AAFrT2lZGl9QHcsq5liDUv88p7jghE5SwME
+"id": -5453182990,
 [Read here](https://github.com/ebinxavier/telegramCloudStorage/blob/main/ui/public/help/help.md)
