@@ -15,6 +15,24 @@ Create a file `.env` on the root folder with the following credentials.
 
 `jwtSecret = ******`
 
+### export db
+
+docker exec -i <tên_hoặc_id_container> mongodump \
+  --username=postgres \
+  --password=postgres \
+  --authenticationDatabase=admin \
+  --db=it_kb \
+  --archive > backup_it_kb.gz
+
+### import db
+
+docker exec -i <tên_hoặc_id_container> mongorestore \
+  --username=postgres \
+  --password=postgres \
+  --authenticationDatabase=admin \
+  --archive < backup_it_kb.gz
+
+
 ### Installation
 
 - `npm install`
