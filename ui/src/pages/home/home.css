@@ -1,0 +1,27 @@
+/* tile uploaded pictures */
+.upload-list-inline .ant-upload-list-item {
+    float: left;
+    width: 200px;
+    margin-right: 8px;
+  }
+  
+  .upload-list-inline [class*='-upload-list-rtl'] .ant-upload-list-item {
+    float: right;
+  }
+
+  .header-btns > .ant-btn > span {
+  padding-bottom: 18px;
+  display: inline-block;
+  font-size: 30px;
+}
+
+.center {
+  text-align: center;
+}
+.header-btns{
+  text-align: center;
+}
+
+.header-btns button {
+  height: 40px;
+}

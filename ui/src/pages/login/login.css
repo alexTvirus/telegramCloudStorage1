@@ -1,0 +1,15 @@
+.form-border{
+    margin: 0 20px;
+    margin-top: calc(45vh - 180px);
+    padding: 41px 50px;
+    border: 1px solid #d9d9d9;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 18px;
+}

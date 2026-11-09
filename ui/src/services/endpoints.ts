@@ -1,0 +1,10 @@
+export const LOGIN = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/user/login";
+export const IS_LOGGED_IN = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/user/isLoggedIn";
+export const LIST_FOLDER = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/folder/ls";
+export const MAKE_FOLDER = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/folder/mkdir";
+export const DELETE_FOLDER = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/folder/rmdir";
+export const DOWNLOAD_FILE_URL = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/file/download";
+export const DOWNLOAD_FOLDER = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/file/download-folder";
+export const DELETE_FILE = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/file/remove";
+export const UPLOAD_FILE = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/file/upload";
+export const REGISTER = "https://musical-goggles-px5gp67vgjgf9w6q-3000.app.github.dev/api/v1/user/register";
