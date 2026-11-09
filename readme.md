@@ -25,6 +25,8 @@ For development we have 2 servers for Node and React.
 
 
 nvm install 16
+
+
 nvm use 16
 
 npm rebuild bcrypt --update-binary
