@@ -60,7 +60,7 @@ Now the UI will be available at http://localhost:3001
 
 ## Register new user
 
-9217020131:AAFrT2lZGl9QHcsq5liDUv88p7jghE5SwME
+token ma hoa lai bang base64 roi dung: OTIxNzAyMDEzMTpBQUZyVDJsWkdsOVFIY3NxNWxpRFV2ODhwN2pnaEU1U3dNRQ==
 
 "id": -5453182990,
 
